@@ -167,7 +167,7 @@ PRs submitted to etcd by apullo777: See [here](https://github.com/etcd-io/etcd/p
 | [#20564](https://github.com/etcd-io/etcd/pull/20564) | cache: implement snapshots & enable cache.Get(rev>0) | Merged | 
 | [#20566](https://github.com/etcd-io/etcd/pull/20566) | cache: rename TestCacheWithoutPrefixGet test cases for clarity | Merged |  
 | [#20581](https://github.com/etcd-io/etcd/pull/20581) | cache: assert ErrFutureRev in testGet | Merged |
-| [#20614](https://github.com/etcd-io/etcd/pull/20614) | cache: make the cache progress-aware  | Open |
+| [#20614](https://github.com/etcd-io/etcd/pull/20614) | cache: make the cache progress-aware  | Merged |
 | [#20639](https://github.com/etcd-io/etcd/pull/20639) | cache: change demux.Broadcast to accept clientv3.WatchResponse | Merged |
 | [#20647](https://github.com/etcd-io/etcd/pull/20647) | Split TestCacheWithPrefixGet into client and cache-specific tests | Merged |
 | [#20648](https://github.com/etcd-io/etcd/pull/20648) | cache: refactor Broadcast into updateStoreLocked and broadcastLocked | Merged |
